@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "451408399594",
+    "firebase_url": "https://blgapa.firebaseio.com",
+    "project_id": "blgapa",
+    "storage_bucket": "blgapa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451408399594:android:a105fc11cbec4a45a9db93",
+        "android_client_info": {
+          "package_name": "com.example.flutter_blop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451408399594-o3ncqbmq3l2713ro0cclgh4fbh7crgeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbPIHXqn9tbQ42lfV-SqlAynovU1EUFDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451408399594-o3ncqbmq3l2713ro0cclgh4fbh7crgeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
